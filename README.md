@@ -7,4 +7,4 @@
  * 1. **File handling** (New , Open , Save, Save As , Exit),
  * 2. **Editing options** (Cut , Copy , Paste)
  * 3. **Formating of Fonts** with fontsize and font type with Word Wrap option
- * 4. **Background colour**
+ * 4. **Background colour** change
